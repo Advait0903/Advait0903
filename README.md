@@ -20,7 +20,7 @@
 
 ```yaml
 Name: Advait Khandare
-Located_in: Mumbai , India
+Located_in: Mumbai, India
 Education:
   [
     "Bachelor's in Computer Engineering",
